@@ -28,6 +28,24 @@ body {
     text-decoration: none;
     
 }
+.logo {
+    font-family: Raleway;
+    font-weight: bold;
+    font-size: 26px;    
+    line-height: 1.2px;
+    letter-spacing: 0.03em;
+    color: #2196F3;
+
+}
+
+.logo-studio {
+    font-family: Raleway;
+    font-weight: bold;
+    font-size: 26px;    
+    line-height: 1.2px;
+    letter-spacing: 0.03em;
+    color: black;
+}
 
 a {
     text-decoration: none;
@@ -105,7 +123,10 @@ li {
     line-height: 1.14;
     letter-spacing: 0.02em;
     color: var(--primary-text-color);
-
+}
+.button-primary:hover,
+.button-primary:focus {
+  color: var(--accent-color);
 }
 
 .button-footer {
@@ -166,3 +187,4 @@ footer {
     letter-spacing: 0.03em;
     color: rgba(255, 255, 255, 0.6);
 }
+
