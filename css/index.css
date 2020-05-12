@@ -95,6 +95,7 @@ address {
     text-align: center;
     text-transform: uppercase;
     color: #FFFFFF;
+    background: rgba(47, 48, 58, 0.8);
 }
 
 .subtitle-hero {
@@ -106,6 +107,7 @@ address {
     text-align: center;
     color: #FFFFFF;
     background-color: var(--accent-color);
+    
 }
 
 .list-advantages {
