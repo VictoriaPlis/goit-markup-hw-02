@@ -38,10 +38,31 @@ body {
 
 }
 
+.logo-footer {
+    font-family: Raleway;
+    font-weight: bold;
+    font-size: 22px;    
+    line-height: 1.2px;
+    letter-spacing: 0.03em;
+    color: #2196F3;
+
+}
+
+
+
 .logo-studio {
     font-family: Raleway;
     font-weight: bold;
     font-size: 26px;    
+    line-height: 1.2px;
+    letter-spacing: 0.03em;
+    color: black;
+}
+
+.logo-studio-footer {
+    font-family: Raleway;
+    font-weight: bold;
+    font-size: 22px;    
     line-height: 1.2px;
     letter-spacing: 0.03em;
     color: black;
